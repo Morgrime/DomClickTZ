@@ -5,6 +5,5 @@ bash
 pip install fastapi uvicorn
 
 # Запуск
-uvicorn main:app --reload# DomClick
-# DomClickTZ
-# DomClickTZ
+uvicorn main:app --reload
+
